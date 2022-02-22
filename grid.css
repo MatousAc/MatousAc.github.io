@@ -3,6 +3,7 @@
 	display: grid;
 	grid-column-gap: 15px;
 	grid-row-gap: 15px;
+	max-width: 1000px;
 }
 
 .flexbox {

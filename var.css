@@ -2,6 +2,7 @@
 :root {
 	/* colors */
 	--grey: #c1d2d2;
+	--light-grey: #c1d2d28f;
 	--orange: #FC7753;
 	--blue: #403D58;
 	--emrald: #00916E;
@@ -9,7 +10,7 @@
 	--green: #306B34;
 	--dark-green: #112713;
 	/* gradients */
-	--primary-gradient: linear-gradient(-170deg, white, var(--grey));
+	--primary-gradient: linear-gradient(-170deg, white, var(--light-grey));
 	--tertiary-gradient: linear-gradient(-5deg, var(--blue), var(--emrald));
 	--black-fade: linear-gradient(0deg, black, transparent);
 	/* border */
