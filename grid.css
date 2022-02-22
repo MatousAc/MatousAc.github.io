@@ -1,0 +1,28 @@
+/* styling only for recipes.html */
+.grid {
+	display: grid;
+	grid-column-gap: 15px;
+	grid-row-gap: 15px;
+}
+
+.flexbox {
+	cursor: pointer;
+	display: flex;
+	flex-direction: column;
+	position: relative;
+}
+
+.row {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.col {
+	display: flex;
+	flex-wrap: wrap;
+	flex-direction: column;
+}
+
+.col.left-align {
+	align-items: flex-start;
+}
