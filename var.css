@@ -1,18 +1,15 @@
 /* color sheme and gradients */
 :root {
 	/* colors */
-	--color-primary: #c1d2d2;
-	--color-secondary: white;
-	--color-tertiary: #e33d43;
-	--color-quaternary: #cddcdc91;
-	--color-quinary: #F5DDDD;
-	--color-senary: #558B2F;
-	--color-septenary: #7FB800;
-	--color-octonary: #C2185B;
-	--color-nonary: #D81B60;
+	--grey: #c1d2d2;
+	--orange: #FC7753;
+	--blue: #403D58;
+	--emrald: #00916E;
+	--green: #306B34;
+	--dark-green: #112713;
 	/* gradients */
-	--primary-gradient: linear-gradient(-170deg, var(--color-secondary), var(--color-quaternary));
-	--tertiary-gradient: linear-gradient(-5deg, var(--color-tertiary), var(--color-quaternary));
+	--primary-gradient: linear-gradient(-170deg, white, var(--grey));
+	--tertiary-gradient: linear-gradient(-5deg, var(--blue), var(--emrald));
 	--black-fade: linear-gradient(0deg, black, transparent);
 	/* border */
 	--border-gradient: linear-gradient(132deg, white, transparent);
