@@ -1,14 +1,13 @@
-
 {
   "embeddings": [
     {
-      "tensorName": "vectors1962.tsv",
+      "tensorName": "vectors1962",
       "tensorShape": [
-        5341,
-        128
+        2644,
+        50
       ],
       "tensorPath": "https://matousac.github.io/vectors1962.tsv",
-      "metadataPath": "https://matousac.github.io/metadata1962.tsv"
+      "metadataPath": "https://matousac.github.io/vectors1962.tsv"
     }
   ]
 }
