@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "vectors2022.tsv",
+      "tensorShape": [
+        2644,
+        128
+      ],
+      "tensorPath": "https://matousac.github.io/vectors2022.tsv",
+      "metadataPath": "https://matousac.github.io/metadata2022.tsv"
+    }
+  ]
+}
